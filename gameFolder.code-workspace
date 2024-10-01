@@ -1,0 +1,26 @@
+{
+	"folders": [
+		{
+			"path": "../OneDrive/Desktop/FEH/VSCODE"
+		},
+		{
+			"path": "../../../Proteus_Project"
+		},
+		{
+			"path": "../OneDrive/Desktop/FEH/Proteus_Simulator"
+		},
+		{
+			"path": "../../../Simulator_Project/Simulator_Project"
+		},
+		{
+			"path": "../../../Proteus_Simulator"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"iostream": "cpp",
+			"iosfwd": "cpp",
+			"*.tcc": "cpp"
+		}
+	}
+}
